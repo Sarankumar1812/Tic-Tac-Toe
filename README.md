@@ -40,9 +40,6 @@ This is a simple **Tic Tac Toe** game built using **HTML**, **CSS**, and **JavaS
 └── script.js         # JavaScript for game logic
 ```
 
-## Screenshots
-
-![Tic Tac Toe Game Screenshot](screenshot.png) 
 
 ## Future Enhancements
 
